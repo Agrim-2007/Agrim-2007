@@ -15,7 +15,7 @@
 🌱 Growing in Next.js, Pandas, and cloud tech  
 🤝 Always up for hackathons, new collaborations, and competitive coding  
 💬 Let’s chat about anything from Node.js magic to MongoDB mysteries!  
-⚡ <i>I debug faster than an AI can say "Hello World!"</i>  
+ 
 
 </div>
 
