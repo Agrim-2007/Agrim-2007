@@ -84,6 +84,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Agrim-2007&icon=3&color=12" />
-</p>
