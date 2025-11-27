@@ -88,5 +88,3 @@
   <img src="https://visitcount.itsvg.in/api?id=Agrim-2007&icon=3&color=12" />
 </p>
 
-<br/>
-<div align="center"><sub>Proudly crafted with curiosity, caffeine & Copilot 🤖</sub></div>
