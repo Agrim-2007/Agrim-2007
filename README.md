@@ -11,7 +11,7 @@
 
 🔬 Exploring full-stack projects, AI, and smart automation  
 🛠️ Maker of <strong>DentoScan</strong>, <strong>Audit.ai</strong>, <strong>OG Design</strong>  
-🏆 <strong>CodeChef 3★</strong> • <strong>LeetCode 340+</strong> • <strong>Codeforces 1100+</strong>  
+🏆 <strong>CodeChef 3★</strong> • <strong>LeetCode 440+</strong> • <strong>Codeforces 1100+</strong>  
 🌱 Growing in Next.js, Pandas, and cloud tech  
 🤝 Always up for hackathons, new collaborations, and competitive coding  
 💬 Let’s chat about anything from Node.js magic to MongoDB mysteries!  
