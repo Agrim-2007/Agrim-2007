@@ -68,17 +68,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats & Trophies</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Agrim-2007&show_icons=true&theme=tokyonight" alt="Stats" height="170" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Agrim-2007&theme=tokyonight&no-frame=true" alt="Trophy" height="140"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agrim-2007&theme=tokyonight&layout=compact" alt="Top Languages" height="140"/>
-</p>
-
----
-
 <h2 align="center"> ✨ Inspirational Byte ✨ </h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
