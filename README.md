@@ -51,7 +51,7 @@
       <td>
         <ul>
           <li>CodeChef <strong>3★</strong></li>
-          <li>LeetCode <strong>340+ problems</strong></li>
+          <li>LeetCode <strong>500+ problems</strong></li>
           <li>Codeforces <strong>1100+</strong></li>
         </ul>
       </td>
